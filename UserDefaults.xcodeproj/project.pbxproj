@@ -14,6 +14,7 @@
 		FADE15E921A985E1000FF4AF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FADE15E721A985E1000FF4AF /* LaunchScreen.storyboard */; };
 		FADE15F421A985E1000FF4AF /* UserDefaultsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FADE15F321A985E1000FF4AF /* UserDefaultsTests.swift */; };
 		FADE15FF21A985E2000FF4AF /* UserDefaultsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FADE15FE21A985E2000FF4AF /* UserDefaultsUITests.swift */; };
+		FADE160D21A985F8000FF4AF /* Heroe.swift in Sources */ = {isa = PBXBuildFile; fileRef = FADE160C21A985F8000FF4AF /* Heroe.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		FADE15FA21A985E2000FF4AF /* UserDefaultsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UserDefaultsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FADE15FE21A985E2000FF4AF /* UserDefaultsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserDefaultsUITests.swift; sourceTree = "<group>"; };
 		FADE160021A985E2000FF4AF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FADE160C21A985F8000FF4AF /* Heroe.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Heroe.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 			isa = PBXGroup;
 			children = (
 				FADE15DE21A985DA000FF4AF /* AppDelegate.swift */,
+				FADE160C21A985F8000FF4AF /* Heroe.swift */,
 				FADE15E021A985DA000FF4AF /* ViewController.swift */,
 				FADE15E221A985DA000FF4AF /* Main.storyboard */,
 				FADE15E521A985E1000FF4AF /* Assets.xcassets */,
@@ -258,6 +261,7 @@
 			files = (
 				FADE15E121A985DA000FF4AF /* ViewController.swift in Sources */,
 				FADE15DF21A985DA000FF4AF /* AppDelegate.swift in Sources */,
+				FADE160D21A985F8000FF4AF /* Heroe.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
